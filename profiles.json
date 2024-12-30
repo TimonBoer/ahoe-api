@@ -1,0 +1,24 @@
+{
+  "profiles": [
+    {
+      "username": "starGazer01",
+      "fullname": "Alice Johnson",
+      "score": 87
+    },
+    {
+      "username": "codeMaster99",
+      "fullname": "Bryan Smith",
+      "score": 92
+    },
+    {
+      "username": "waveRider77",
+      "fullname": "Catherine Lee",
+      "score": 78
+    },
+    {
+      "username": "skyDiver56",
+      "fullname": "Daniel Brown",
+      "score": 85
+    }
+  ]
+}
